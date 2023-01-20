@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA;CACC,kBAAkB;CAClB,gBAAgB;CAChB,eAAe;CACf,gBAAgB;CAChB,kBAAkB;CAClB,iBAAiB;AAClB,C","sources":["webpack:///./src/style.css"],"sourcesContent":[".body{\r\n\tposition: absolute;\r\n\toverflow: hidden;\r\n\tmargin-top: 0px;\r\n\tmargin-left: 0px;\r\n\tmargin-bottom: 0px;\r\n\tmargin-right: 0px;\r\n}"],"names":[],"sourceRoot":""}
